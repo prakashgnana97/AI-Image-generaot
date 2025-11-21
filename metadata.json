@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Forensics",
+  "description": "A universal AI media detection tool that analyzes images and videos for synthetic artifacts using Google Gemini 2.5.",
+  "requestFramePermissions": []
+}
